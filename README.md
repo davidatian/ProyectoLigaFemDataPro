@@ -1,8 +1,9 @@
 ![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3add4c34-2f60-4572-adad-5ab8f7bdcebb)
 
-Proyecto Liga Betplay Femenina Estructura de datos y Programación 1- Politecnico Internacional)
+Proyecto Liga Betplay Femenina Estructura de datos y Programación 1- Politecnico Internacional
 
-Descripción del proyecto
+Descripción del proyecto:
+
 Proyecto creado desde la arquitectuta de modelo vita controlador teniendo en cuenta los temas vistos a lo largodel corte 3 en las asignaturas de Estructura de datos y Programacion 1.
 
 *Estado del proyecto
@@ -19,9 +20,9 @@ El presente proyecto se encuentra en etapa de desarrollo.
 
 *Acceso al proyecto
 
-Las siguientes son las credenciales utilizadas para el proyecto.
+Las siguientes son las credenciales de login utilizadas para el correcto acceso al proyecto.
 
-FemData Pro - Usuario: David - Password: Clave123
+Usuario: David - Password: Clave123
 
 *Tecnologías utilizadas
 
