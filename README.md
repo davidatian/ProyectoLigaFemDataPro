@@ -29,7 +29,8 @@ Las siguientes son las credenciales de login utilizadas para el correcto acceso 
 
 Usuario: David - Password: Clave123
 
-![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/39cf2dab-1a0b-4235-83b2-4d933c0fc97f)
+![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/f53e51fa-f2ce-443e-9fcf-f98771c405b4)
+
 
 
 *Tecnologías utilizadas
