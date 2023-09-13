@@ -41,10 +41,6 @@ A continuación se presenta el IDE de desarrollo NetBeans17 sobre el cual está 
 
 Product Version: Apache NetBeans IDE 17 Java: 20.0.2; Java HotSpot(TM) 64-Bit Server VM 20.0.2+9-78 Runtime: Java(TM) SE Runtime Environment 20.0.2+9-78 System: Windows 11 version 10.0 running on amd64; UTF-8; es_CO (nb
 
-*Personas Contribuyentes
-
-David Sebastian Enciso Lopez Desarrolador 1
-
 *Desarrollador del Proyecto
 
 David Sebastian Enciso - Email: david.enciso@pi.edu.co
