@@ -24,6 +24,9 @@ Las siguientes son las credenciales de login utilizadas para el correcto acceso 
 
 Usuario: David - Password: Clave123
 
+![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/39cf2dab-1a0b-4235-83b2-4d933c0fc97f)
+
+
 *Tecnologías utilizadas
 
 El siguiente proyecto se desarrolla basandonos en la programacion orientada a objetos y desde la arquitectura de modelo-vista-controlador y aplicamos la creacion de clases, objetos, metodos y atributos. 
@@ -42,9 +45,9 @@ David Sebastian Enciso - Email: david.enciso@pi.edu.co
 
 Licencia
 Creative Commons 4.0
+
 ![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/4360df40-4ed1-4489-84a1-b64cb88031f2)
 
-*Conclusión
 
 
 About
@@ -54,41 +57,5 @@ Resources
  Readme
 License
  GPL-3.0 license
- Activity
-Stars
- 1 star
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-HTML
-31.4%
- 
-Java
-28.8%
- 
-JavaScript
-21.4%
- 
-CSS
-18.4%
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+
