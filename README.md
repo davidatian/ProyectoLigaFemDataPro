@@ -19,8 +19,11 @@ El presente proyecto se encuentra en etapa de desarrollo.
 
 1. En la pantalla principal se va a encontrar un login en el cual podemos acceder a una completa información y estadísticas de algunos de los equipos participantes de la liga Betplay Femenina 2023.
 2. En el menú principal encontrarás 3 opciones en las que podrás navegar de manera muy fácil y conocer datos como:
+
  *Equipos campeones en la historia del torneo
+ 
  *plantilla de equipos participantes
+ 
  *Estadísticas y tabla de posiciones de la liga 2023.
 
 *Acceso al proyecto
