@@ -2,6 +2,7 @@
 
 
    
+![by-nc-nd](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3bfdfc5f-78c2-491e-bbf1-e4db3c56b550)
 
 ![football-8138299_1280](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3111381f-1925-4c60-85c8-98ecbbeac3e8)
 
