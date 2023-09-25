@@ -6,7 +6,8 @@
 
 ![football-8138299_1280](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3111381f-1925-4c60-85c8-98ecbbeac3e8)
 
-   ![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/c2f766e5-8334-459d-aad6-1e294be89f08)
+  ![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/a5305a6f-6c10-45e0-80c0-bfa0995e9e4f)
+
 
 
 Proyecto Liga Betplay Femenina Estructura de datos y Programación 1- Politecnico Internacional Sede Sur
