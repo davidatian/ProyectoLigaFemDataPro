@@ -4,7 +4,8 @@
    
 
 
-![football-8138299_1280](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3111381f-1925-4c60-85c8-98ecbbeac3e8)
+
+![ai-generated-8130148_1920](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/2e493d21-6ef3-4029-886e-e478f29d797a)
 
   ![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/a5305a6f-6c10-45e0-80c0-bfa0995e9e4f)
 
