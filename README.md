@@ -2,7 +2,7 @@
 
 
    
-![by-nc-nd](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3bfdfc5f-78c2-491e-bbf1-e4db3c56b550)
+
 
 ![football-8138299_1280](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3111381f-1925-4c60-85c8-98ecbbeac3e8)
 
@@ -36,7 +36,8 @@ Las siguientes son las credenciales de login utilizadas para el correcto acceso 
 
 Usuario: David - Password: Clave123
 
-![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/f53e51fa-f2ce-443e-9fcf-f98771c405b4)
+![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/1af64236-40e6-4582-8c4d-98f6cb1ff7e3)
+
 
 
 
@@ -55,8 +56,7 @@ David Sebastian Enciso - Email: david.enciso@pi.edu.co
 Licencia
 Creative Commons 4.0
 
-![image](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/4360df40-4ed1-4489-84a1-b64cb88031f2)
-
+![by-nc-nd](https://github.com/davidatian/ProyectoLigaFemDataPro/assets/113490906/3bfdfc5f-78c2-491e-bbf1-e4db3c56b550)
 
 
 About
